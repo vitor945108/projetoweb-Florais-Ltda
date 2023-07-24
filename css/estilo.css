@@ -1,0 +1,35 @@
+.nav{
+background-color: pink;
+margin-left: 40px;
+}
+figure{  position: absolute;
+left: 2px;}
+a{
+    color: rgb(15, 15, 12);
+    text-align: center;
+    padding: 100px;
+}
+a:hover { color: 
+
+}
+.btn{
+    background-color: aqua;
+}
+.carousel-inner{
+position: relative;
+left: 400px;
+}
+.carousel-control-prev-icon{
+    position: relative;
+    left: 100px;
+background-color: rgb(192, 34, 95);
+}
+.carousel-control-next-icon{
+    background-color:rgb(192, 34, 95);
+    position: relative;
+    right: 300px;}
+    .card-body{ background-color: pink;
+    }
+    .conteiner{
+        display: flex
+    }
